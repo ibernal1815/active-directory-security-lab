@@ -1,0 +1,53 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Virtual Machines and Dumps
+*.iso
+*.vmdk
+*.vhdx
+*.vdi
+*.ova
+*.ovf
+*.mem
+*.dmp
+*.vmem
+*.vmss
+*.vmx
+
+# Packet Captures and Large Logs
+*.pcap
+*.pcapng
+*.evtx
+# Note: Specific .evtx files used as evidence will be explicitly added using 'git add -f'
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# PowerShell History/Configs
+*_history.txt
+*.psd1
+!powershell/*.ps1
+
+# Secrets & Credentials
+secrets/
+*.key
+*.pem
+*.cer
+*.crt
+credentials.txt
+passwords.csv
+*.rdp
+
+# IDEs
+.vscode/
+.idea/
+*.swp
