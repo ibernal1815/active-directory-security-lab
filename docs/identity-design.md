@@ -12,19 +12,19 @@ The directory structure avoids default containers and implements a custom hierar
 
     [Domain Root]
     │
-    ├── 🏢 Administration (Tier 0)
+    ├── Administration (Tier 0)
     │   ├── Admins
     │   ├── Service Accounts
     │   └── Tier 0 Servers
     │
-    ├── 🏢 Departments (Tier 2)
+    ├── Departments (Tier 2)
     │   ├── IT
     │   ├── Engineering
     │   ├── Finance
     │   ├── Human Resources
     │   └── Sales
     │
-    └── 🏢 Devices
+    └── Devices
         ├── Workstations
         └── Servers
 
